@@ -1,13 +1,13 @@
-# Glow Webhook spammer 🔥
+# 🔥 Glow Webhook spammer 🔥
 
 
-# Glow Spammer is an fast webhook spammer!
+# 🍭 Glow Spammer is an fast webhook spammer! 🍭
 
 
-# Don't Forget To Star If You Like It
+# ⭐ Don't Forget To Star If You Like It. ⭐
 
 
-# 🚀 Glow Webhook Spammer setup
+# 🚀 Glow Webhook Spammer setup 🚀
 
 
 1. Install [python](https://www.python.org/) and add it to path
