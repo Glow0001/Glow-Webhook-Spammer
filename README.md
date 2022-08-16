@@ -1,2 +1,3 @@
-# Glow-Webhook-Spammer
-basic discord webhook spammer - made by glow
+# Glow Webhook spammer 🔥
+
+### star if u not a faggot
